@@ -1,6 +1,6 @@
 body{
 
-    background: #0000FF
+    background: #00FFFF; 
 }
 #banner{
 	
@@ -15,6 +15,6 @@ p{
    font-size: 30px
 }
 
-em strong{
-	 color: #ff0000
+em green{
+	 color: #0000FF
 }
